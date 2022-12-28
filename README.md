@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning projects related to Business Intelligence
 - 💞️ I’m looking to collaborate on Tableau/Power BI
 - 📫 How to reach me: ankitavartak12@gmail.com
--
+
+LinkedIn: https://www.linkedin.com/in/ajvartak/
+Tableau Public: https://public.tableau.com/app/profile/ankita.vartak
 
 <!---
 AnkitaVartak/AnkitaVartak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
